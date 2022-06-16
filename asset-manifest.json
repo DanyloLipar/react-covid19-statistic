@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-covid19-statistic/static/css/main.97a67dbc.css",
+    "main.js": "/react-covid19-statistic/static/js/main.13b832c0.js",
+    "static/media/loading.gif": "/react-covid19-statistic/static/media/loading.707b79309581ce09ed58.gif",
+    "index.html": "/react-covid19-statistic/index.html",
+    "main.97a67dbc.css.map": "/react-covid19-statistic/static/css/main.97a67dbc.css.map",
+    "main.13b832c0.js.map": "/react-covid19-statistic/static/js/main.13b832c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a67dbc.css",
+    "static/js/main.13b832c0.js"
+  ]
+}
